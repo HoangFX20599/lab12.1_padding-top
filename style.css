@@ -1,14 +1,14 @@
 .bg-img1 {
   padding-top: 50%;
-  background: url("/img/4.jpg") top center / cover no-repeat;
+  background: url("../img/4.jpg") top center / cover no-repeat;
 }
 
 .bg-img2 {
   padding-top: 50%;
-  background: url("/img/5.jpg") top center / cover no-repeat;
+  background: url("../img/5.jpg") top center / cover no-repeat;
 }
 
 .bg-img3 {
   padding-top: 50%;
-  background: url("/img/6.jpg") top center / cover no-repeat;
+  background: url("../img/6.jpg") top center / cover no-repeat;
 }
